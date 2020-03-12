@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// add more text, even more and more 
+// add more text, even more and more and more 
 class area_cl
 {
 	public:
